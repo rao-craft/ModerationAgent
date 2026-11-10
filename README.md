@@ -54,7 +54,7 @@ pages `granite` makes: judge each post with the moderator, put `.censorOverlay(v
 ## Get it
 
 In Craft, install Moderation from the Agent Store, or run
-`craft agents add https://github.com/Rao-Craft-Agents/ModerationAgent.git`, then say `$moderation` in a request.
+`craft agents add https://github.com/rao-craft/ModerationAgent.git`, then say `$moderation` in a request.
 
 ## Requirements
 

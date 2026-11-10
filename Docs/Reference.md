@@ -14,7 +14,7 @@ let moderationRecord: GraniteRoster.Record = { GraniteRoster.record(ModerationAg
 ```
 
 In [Craft](https://github.com/riteshpakala/Craft), install it from the Agent Store or with
-`craft agents add https://github.com/Rao-Craft-Agents/ModerationAgent.git`, then say `$moderation` in a request:
+`craft agents add https://github.com/rao-craft/ModerationAgent.git`, then say `$moderation` in a request:
 
 ```
 $moderation keep spoilers and crypto spam out of the recipe feed, and blur food photos the model flags
